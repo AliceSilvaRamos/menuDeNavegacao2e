@@ -1,0 +1,17 @@
+.menu{
+    display: flex;
+    justify-content: center;
+    background-color: #333;
+   font-size:  24px;
+}
+
+.menu-list{
+    list-style: nome;
+   display: flex;
+}
+
+.menu-list-li a{
+    text-decoration: nome;
+    color: #fff;
+   padding: 10px;
+}
